@@ -1,5 +1,8 @@
 # The_JAVA_junit_test
 
-* Type code
-* later, organize content
-* later, organize thought
+## Current step
+1. Type code
+
+## Next step
+1. later step, organize content
+2. later step, organize thought
